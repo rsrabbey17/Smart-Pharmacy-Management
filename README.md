@@ -473,7 +473,7 @@ src/test/java/com/pharmacy/smart_pharmacy/
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE).
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
